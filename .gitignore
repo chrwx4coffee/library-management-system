@@ -61,6 +61,7 @@ nuget.props
 
 # SQLite
 *.db
+!database.db
 *.db-journal
 *.db-wal
 *.sqlite
